@@ -1,3 +1,25 @@
+--[[
+--Created Date: Wednesday June 8th 2022
+--Author: JustGod
+--Made with ❤
+-------
+--Last Modified: Wednesday June 8th 2022 11:17:14 am
+-------
+--Copyright (c) 2022 MFA Concept, All Rights Reserved.
+--This file is part of MFA Concept project.
+--Unauthorized using, copying, modifying and/or distributing of this file
+--via any medium is strictly prohibited. This code is confidential.
+-------
+--]]
+
+--[[
+	 _         _     __  __              
+  _ | |_  _ __| |_  |  \/  |___ _ _ _  _ 
+ | || | || (_-<  _| | |\/| / -_) ' \ || |
+  \__/ \_,_/__/\__| |_|  |_\___|_||_\_,_|
+                                         
+]]--                                   
+
 ---@class _Menu
 _Menu = {}
 
