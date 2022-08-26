@@ -69,7 +69,8 @@ function _Menu:new()
 		maxOptionCountOnScreen = 20,
 		titleColor = { 255, 255, 255, 255 },--{ 0, 0, 0, 255 },
 		titleBackgroundColor = { 50, 50, 220, 150 },--{ 245, 127, 23, 255 },
-		titleBackgroundSprite = { dict = "commonmenu", name = "interaction_bgd" },
+		--titleBackgroundSprite = { dict = "commonmenu", name = "interaction_bgd" }, --Removed for now because some Anti Cheat ban this
+		titleBackgroundSprite = { dict = "", name = "" },
 		subTitleColor = { 254, 254, 254, 255 },--{ 245, 127, 23, 255 },
 		textColor = { 254, 254, 254, 255 },
 		subTextColor = { 189, 189, 189, 255 },
