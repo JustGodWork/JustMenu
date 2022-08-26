@@ -1603,7 +1603,7 @@ Menu:setMenuCallBack("settings", function()
 end)
 
 CreateThread(function()
-	while not HasStreamedTextureDictLoaded("commonmenu") do Wait(20) end
+	--while not HasStreamedTextureDictLoaded("commonmenu") do Wait(20) end --Removed for now
 	PlaySoundFrontend(-1, "BASE_JUMP_PASSED", "HUD_AWARDS", true)
 	JustMod:bigMessage("Just Menu",  "~c~Made with ❤️", 2.0, "MP_BIG_MESSAGE_FREEMODE")
 	DisplayRadar(JustMod:getPlayerData("radar"))
